@@ -1,0 +1,41 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:English2._0.Resources"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <!--Main Window form-->
+    <v:String x:Key="m_Title">Please, make a selection section</v:String>
+    <v:String x:Key="m_menu_Language">Language</v:String>
+    <v:String x:Key="m_learn_Words">1) Learn the words</v:String>
+    <v:String x:Key="m_Tests">2) Tests</v:String>
+    <v:String x:Key="m_Rules">3) Rules</v:String>
+    <v:String x:Key="m_Create_a_new_player">4) Create a new player</v:String>
+    <v:String x:Key="m_Change_Plyer">5) Change plyer</v:String>
+    <v:String x:Key="m_Play">6) Play</v:String>
+    <v:String x:Key="m_Exit">7) Exit</v:String>
+    <v:String x:Key="m_AktivePlyer">Hello, </v:String>
+    <!--Change plyer form-->
+    <v:String x:Key="m_change_Plyer">    Change Plyer</v:String>
+    <v:String x:Key="m_change">Change</v:String>
+    <!--Create a new plyer-->
+    <v:String x:Key="m_name_Plyer">Name plyer</v:String>
+    <v:String x:Key="m_Save">Save</v:String>
+    <v:String x:Key="m_go_Back">Go Back</v:String>
+    <v:String x:Key="m_Filed1">Field for input name</v:String>
+    <v:String x:Key="m_Filed2">Field for input password</v:String>
+    <v:String x:Key="m_Filed3">Field for input e-mail</v:String>
+    <!--Select level-->
+    <!--Main Rules-->
+    <v:String x:Key="m_Select_level">  Select     level</v:String>
+    <!--Learn the words-->
+    <v:String x:Key="m_learn_Word">    Learn the words</v:String>
+    <v:String x:Key="m_input_Word">Input word on English</v:String>
+    <v:String x:Key="m_active_Dic">Active Dictionary</v:String>
+    <v:String x:Key="m_Check">Check</v:String>
+    <v:String x:Key="m_Go_Back">Go Back</v:String>
+    <!--AgreeOtherPlyer-->
+    <v:String x:Key="m_Yes">Yes</v:String>
+    <v:String x:Key="m_No">No</v:String>
+    <!--SelectPlyer-->
+    <v:String x:Key="m_Choose">Choose   plyer</v:String>
+    <v:String x:Key="m_input_name_of">Input name of plyer</v:String>
+</ResourceDictionary>
